@@ -42,6 +42,11 @@ Space & Rate: Matrix breakdowns of Actual Rate per SQM by floor and zone, highli
 Tenants & Turnover: Deep dive into tenant performance (Top/Bottom 10), Occupancy Cost Ratios, and Arrears tracking.
 
 Leasing & Footfall: Risk analysis focusing on early terminations by leasing agents, rent-free months distributed, and footfall-to-spend conversions.
+<img width="1327" height="745" alt="image" src="https://github.com/user-attachments/assets/90209759-cc83-423a-90f8-ed510edd51ef" />
+<img width="1321" height="753" alt="image" src="https://github.com/user-attachments/assets/6f35fb90-a410-4caa-9faf-7609c637d7e6" />
+<img width="1328" height="752" alt="image" src="https://github.com/user-attachments/assets/2926a499-2cf8-4bbb-918c-9e3e14de2eea" />
+<img width="1331" height="747" alt="image" src="https://github.com/user-attachments/assets/874660ef-3ddf-4b7c-ba74-59387dfb5316" />
+<img width="1333" height="746" alt="image" src="https://github.com/user-attachments/assets/4f547f7a-cfe6-49d0-a46e-2ca45228ad73" />
 
 
 
