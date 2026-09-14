@@ -43,6 +43,8 @@ Tenants & Turnover: Deep dive into tenant performance (Top/Bottom 10), Occupancy
 
 Leasing & Footfall: Risk analysis focusing on early terminations by leasing agents, rent-free months distributed, and footfall-to-spend conversions.
 
+
+
 Key Business Insights Delivered
 
 Tenant Mix Strategy: Declining "Spend per Visitor" in specific branches signals a need for immediate tenant mix restructuring.
